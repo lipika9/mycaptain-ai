@@ -17,4 +17,4 @@ while(i < Number):
            print(Next)
            i = i + 1
 
-#Updation/Modification
+
