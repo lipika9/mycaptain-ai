@@ -1,0 +1,7 @@
+myDict = {"C":"Easy",
+          "C++":"Moderate",
+          "Java":"Tough"}
+
+#removing values
+del myDict ["Java"]
+print (myDict)
