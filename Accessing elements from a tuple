@@ -1,0 +1,2 @@
+myTuple = ("C","C++","Python" )
+print (myTuple[2])
